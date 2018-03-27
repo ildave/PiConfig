@@ -1,0 +1,8 @@
+https://github.com/pyed/transmission-telegram
+sudo apt-get install golang
+
+add "export GOPATH=$HOME/go" to .bashrc
+source .bashrc
+go get -u github.com/pyed/transmission-telegram
+
+executable will be in $GOPATH/go/bin/transmission-telegram 
