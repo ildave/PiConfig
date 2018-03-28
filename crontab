@@ -1,0 +1,4 @@
+13 * * * * /usr/local/bin/tvnamer -b /disks/4TB/torrent
+43 4,8,12,16,20,0 * * * /usr/local/bin/subliminal  --addic7ed USER PASS   --debug download -p addic7ed -l en -f /disks/4TB/torrent
+
+@hourly /usr/local/bin/flexget --cron execute
