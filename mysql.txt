@@ -1,0 +1,1 @@
+https://discourse.osmc.tv/t/wiki-install-and-configure-mysql-server-and-clients/19170/17
