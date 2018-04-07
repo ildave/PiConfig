@@ -92,6 +92,8 @@ alias ll='ls -lah'
 #alias la='ls -A'
 #alias l='ls -CF'
 
+alias updateKodi='/home/osmc/updateKodi.sh'
+
 
 export GOPATH=$HOME/go
 
