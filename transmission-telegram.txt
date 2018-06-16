@@ -6,3 +6,6 @@ source .bashrc
 go get -u github.com/pyed/transmission-telegram
 
 executable will be in $GOPATH/go/bin/transmission-telegram 
+
+
+./transmission-telegram -token=xxxx -master=xxx -url=http://localhost:9091/transmission/rpc -username=XXX -password=XXX
